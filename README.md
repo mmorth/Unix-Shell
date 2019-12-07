@@ -1,2 +1,4 @@
 # Unix-Shell
 For the first project in my Operating Systems class (CprE 308), I created a program written in C that mimics the Unix Shell (terminal). The user can enter various Unix commands, and my program will execute them to give necessary output. I started the design process by breaking down the requirements into smaller parts and determining what topics could be used to solve those smaller parts. After the initial implementation, I extensively tested it to determine what parts needed further revisions. For this project, I gained experience with parent and child processes, parsing input (string operations), dynamic memory allocation, system calls, and the exec command. Most of the topics used in this project were taught to us in class. I just needed to determine how to apply the topics to solve the problem. 
+
+![alt text](https://github.com/mmorth/Unix-Shell/blob/master/Unix_Shell.png)
